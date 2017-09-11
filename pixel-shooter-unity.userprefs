@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ironman/IronManBehaviorScript.cs">
+    <Files>
+      <File FileName="Assets/ironman/IronManBehaviorScript.cs" Line="142" Column="24" />
+      <File FileName="Assets/mini-spiderman/EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/ironman/PlayerShoot.cs" Line="100" Column="4" />
+      <File FileName="Assets/my-scripts/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/mini-spiderman/EnemyHealth.cs" Line="67" Column="33" />
+      <File FileName="Assets/mini-spiderman/EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/ironman/PlayerHealth.cs" Line="36" Column="85" />
+      <File FileName="Assets/my-scripts/SpawnEnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/CarDriveRightSideScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/VehicleCollision.cs" Line="19" Column="36" />
+      <File FileName="Assets/my-scripts/CarDriveLeftSideScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/HonkScript.cs" Line="27" Column="3" />
+      <File FileName="Assets/my-scripts/CarPassingBy.cs" Line="7" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer", "Assembly-CSharp.csproj", "{2879E7EF-F0F4-574A-F2AE-F2811DF8DD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer", "Assembly-CSharp-firstpass.csproj", "{4A446C19-996D-A5F4-0470-913B1D38618B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer", "Assembly-CSharp-Editor.csproj", "{ED8AB5A5-AE7A-0E49-F822-2C2AB6E1D78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2879E7EF-F0F4-574A-F2AE-F2811DF8DD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2879E7EF-F0F4-574A-F2AE-F2811DF8DD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2879E7EF-F0F4-574A-F2AE-F2811DF8DD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2879E7EF-F0F4-574A-F2AE-F2811DF8DD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A446C19-996D-A5F4-0470-913B1D38618B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A446C19-996D-A5F4-0470-913B1D38618B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A446C19-996D-A5F4-0470-913B1D38618B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A446C19-996D-A5F4-0470-913B1D38618B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8AB5A5-AE7A-0E49-F822-2C2AB6E1D78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8AB5A5-AE7A-0E49-F822-2C2AB6E1D78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8AB5A5-AE7A-0E49-F822-2C2AB6E1D78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8AB5A5-AE7A-0E49-F822-2C2AB6E1D78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
